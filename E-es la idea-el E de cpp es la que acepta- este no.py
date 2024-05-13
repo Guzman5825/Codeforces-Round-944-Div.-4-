@@ -1,3 +1,4 @@
+#este no acepta, pero la idea es parecida aunque bueno, el que si acepta es de la carpeta E
 def pos_menor_o_igual_a_x_BusqBin(v, x): #OJO MUY imporante x tiene que estar en el rango de valores de V
     l,r = -1,len(v)
     while r-l>1:
